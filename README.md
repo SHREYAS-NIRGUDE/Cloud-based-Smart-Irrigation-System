@@ -26,7 +26,7 @@ This project implements a Smart Irrigation System using an ESP32 microcontroller
 
 ## Circuit Diagram
 
-![Circuit Diagram](path_to_circuit_diagram_image)
+![Circuit Diagram](Circuit Diagram.jpg)
 
 Usage
 The system will automatically start measuring the soil moisture, temperature, humidity, rainfall, and light levels.
