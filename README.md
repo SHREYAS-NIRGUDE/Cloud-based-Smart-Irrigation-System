@@ -28,7 +28,7 @@ This project implements a Smart Irrigation System using an ESP32 microcontroller
 
 ![Circuit Diagram](https://github.com/SHREYAS-NIRGUDE/Cloud-based-Smart-Irrigation-System/blob/main/Circuit%20Diagram.jpg)
 
-Usage
+## Usage
 The system will automatically start measuring the soil moisture, temperature, humidity, rainfall, and light levels.
 Based on the soil moisture and temperature readings, the servo motor will control the water pump.
 Sensor readings are displayed on the LCD and can be monitored through the Blynk app.
